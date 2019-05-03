@@ -1,2 +1,3 @@
 # Phishing-Websites-Detection
-Experiments to detect phishing websites using neural networks
+
+The aim of the experiments conducted in the accompanying notebook is to give an idea of how modern _phishing website attacks_ can be prevented using machine learning. To do this, we are going to use the [Phishing Websites' Dataset](https://archive.ics.uci.edu/ml/datasets/phishing+websites). The viewers are requested to take a look at [this paper](https://archive.ics.uci.edu/ml/machine-learning-databases/00327/Phishing%20Websites%20Features.docx) by the authors of the dataset. The paper discusses the data generation strategy in details and how the authors were able to come up with the most significant set of features for _detecting phishing websites_. 
